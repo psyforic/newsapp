@@ -1,0 +1,1 @@
+package com.example.mynews.interfaces;import com.example.mynews.models.Article;public interface SelectItemClickListener {    void OnArticleClicked(Article article);}
